@@ -1,0 +1,21 @@
+.margin{
+    
+    margin: 30px;
+}
+em{
+    font-style: italic;
+
+
+}
+img{
+    width: 910px;
+    height: 540px;
+    border-radius: 300px;
+    float:left;
+    margin-right: 20px;
+}
+.bold{
+    font-weight: bold;
+
+
+}
